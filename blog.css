@@ -1,0 +1,54 @@
+.author-thumbnail img{
+     width: 70px;
+     height: auto;
+     margin-right: 1rem;
+     border-radius: 50%;
+}
+
+.author-box{
+     display: flex;
+     flex-flow: row;
+     justify-content: flex-start;
+     align-items: center;
+}
+
+.author-content > :first-child{
+     font-weight: bold;
+}
+
+.author-content p {
+     margin: .5rem;
+}
+
+.post1-image{
+     width: 80%;
+     height: auto;
+}
+main{
+     margin-top: 3rem;
+}
+
+main .section-2{
+     margin-top: 2rem;
+}
+
+main .image-box > img{
+     width: 80%;
+     height: 400px;
+}
+
+.content-post{
+     margin-top: 2rem;
+     width: 80%;
+}
+
+main .row{
+
+     border-bottom: 2px solid #1b5601;
+    padding: 1rem;
+}
+
+main .row :last-child{
+     padding-bottom: .5rem;
+}
+
